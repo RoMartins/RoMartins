@@ -11,26 +11,27 @@
  <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/frameworks/react.svg" alt="react" style="vertical-align:top; margin:4px">
   <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/frameworks/nodejs.svg" alt="node" style="vertical-align:top; margin:4px">
   <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/languages/js.svg" alt="js" style="vertical-align:top; margin:4px">
-  <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/services/npm.svg" alt="npm" style="vertical-align:top; margin:4px">
-  <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
+  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/css3.svg" alt="aws" style="vertical-align:top; margin:4px">
   <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/html.svg" alt="html" style="vertical-align:top; margin:4px">
   <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/sass.svg" alt="sass" style="vertical-align:top; margin:4px">
   <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/services/aws.svg" alt="aws" style="vertical-align:top; margin:4px">
- 
+  
 
 ---
 
 </p>
 
-<div align="center" display="flex">
+<div align="center">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=romartins&langs_count=4&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-
-![Roodrigo Martins's github stats](https://github-readme-stats.vercel.app/api?username=romartins&show_icons=true&theme=dark&hide=contribs)
-
 <div>
+    
 <!---
+
 RoMartins/RoMartins is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
+![Roodrigo Martins's github stats](https://github-readme-stats.vercel.app/api?username=romartins&show_icons=true&theme=dark&hide=contribs)
+
+
 --->

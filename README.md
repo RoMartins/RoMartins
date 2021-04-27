@@ -2,7 +2,7 @@
     
 ##    👋 Hi, I’m @RoMartins
 
-I am currently focused on specializing in front-end development with React but I also have knowledge in Nodejs.
+Currently focused on specializing in front-end development with <img src="https://i.ibb.co/4RHMmLQ/react.png" width="20"/> <b>React Js and <img src="https://i.ibb.co/PZ2XZgr/ts.png" width="20"/> <b>TypeScript</b> but I also have knowledge in <img src="https://i.ibb.co/vVxmyN2/node.png" width="20"/> <b>Node Js</b>.
 
 ###  Languages and Tools 
 

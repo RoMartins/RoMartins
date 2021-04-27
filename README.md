@@ -2,6 +2,8 @@
     
 ##    👋 Hi, I’m @RoMartins
 
+I am currently focused on specializing in front-end development with React but I also have knowledge in Nodejs.
+
 ###  Languages and Tools 
 
 <p align="center">
